@@ -13,6 +13,8 @@
 #include "base58.h"
 #include "main.h"
 
+#include <boost/algorithm/string/replace.hpp>
+
 using namespace std;
 
 
